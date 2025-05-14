@@ -1,4 +1,4 @@
-# Project of battery-health-evaluation
+# Battery health evaluation using a short random segment
 This project includes code and battery data related to Deng Z, Hu X, Xie Y, Xu L, Li P, Lin X, et al. Battery health evaluation using a short random segment of constant current charging. iScience. 2022:104260. https://doi.org/10.1016/j.isci.2022.104260. 
 
 # Datasets
